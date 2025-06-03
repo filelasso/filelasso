@@ -2,7 +2,7 @@
 
 [FileLasso](https://filelasso.com) is a SaaS dedicated to simplifying digital file management.
 
-Creating new posts on [the forum](https://forum.filelasso.com/) for bugs or feature requests is much appreciated 🙂 Feel free to react to the ones you'd like us to prioritize.
+Creating new posts on [the forum](https://filelasso.discourse.group/) for bugs or feature requests is much appreciated 🙂 Feel free to react to the ones you'd like us to prioritize.
 
 ## Getting Started
 
